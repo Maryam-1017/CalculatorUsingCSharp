@@ -23,7 +23,7 @@ A simple calculator application built using **C# and Windows Forms**, designed t
 
 ## 📸 Screenshot
 
-<img width="832" height="593" alt="image" src="https://github.com/user-attachments/assets/bc0f562f-8ab5-4582-96c3-aa51c6b23a9a" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/bc0f562f-8ab5-4582-96c3-aa51c6b23a9a" />
 
 
 ---
